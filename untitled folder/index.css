@@ -21,34 +21,18 @@ body {
 
 .bck {
 
-    color: white;
-    background-color: #518671;
-    height: 300px;
+    position: absolute;
+    background-color:#518671;
 
 }
 
 .t {
 
-   text-align: center;
+   position: relative;
+   color: white;
+   font-size: 20px;
+   top: 20%;
 
-}
-
-.destinations {
-
-    display: flex;
-    justify-content: center;
-
-
-
-}
-
-.destinations button {
-
-    background-color: white;
-    border: 1px solid #d9d8d8;
-    width: 50%;
-    margin: auto;
-    padding: 2%;
 }
 
 
@@ -146,12 +130,10 @@ h3 {
 .card {
     
     width: 25rem;
-    padding-bottom: 2%;
+    padding-top: 2%;
+    padding: 6%;
     text-align: center;
     margin-bottom: 5%;
-    border: 1px solid #d9d8d8;
-    margin-left: 1%;
-border-radius: 0px;
 }
 
 .card h2 {
