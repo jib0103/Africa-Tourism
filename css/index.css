@@ -12,6 +12,11 @@ body {
 
 }
 
+h2, h3 {
+
+    letter-spacing: 4px;
+}
+
 .header1 {
 
     margin-top:0%;
@@ -41,6 +46,7 @@ nav .container {
 .t {
 
    text-align: center;
+   margin-top: 5%;
 
 }
 
@@ -316,9 +322,10 @@ border-radius: 0px;
 
 footer {
     
-    background-color: #FAF5EF;
+    background-color: #518671;
+    /*background-color: #FAF5EF;
     margin-top: 10%;
-    
+    */
 }
 
 .f1 {
