@@ -8,7 +8,18 @@ body {
 .container {
 
   line-height: 1.8;
+  margin-top: 5%;
 
+}
+
+.header1 {
+
+    margin-top:0%;
+}
+
+nav .container {
+
+    margin-top:0%;
 }
 
 .hero-img {
@@ -49,6 +60,45 @@ body {
     width: 50%;
     margin: auto;
     padding: 2%;
+    text-transform: uppercase;
+}
+
+.l-text {
+
+    text-align: center;
+
+
+}
+
+.l-text h2 {
+
+    text-transform:  uppercase;
+
+}
+
+.l-text p {
+
+    color: grey;
+    font-size: 18px;
+}
+
+.trav {
+
+    margin-top: 5%;
+    
+
+}
+
+
+.travel {
+
+
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #518671;
+    height: 200px;
+    padding-top: 3%;
+
 }
 
 
