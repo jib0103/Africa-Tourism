@@ -92,6 +92,23 @@ nav .container {
 
 }
 
+.ims {
+
+
+    background-size: cover;
+    background-image: url(../img/teacher1.jpg);
+    height: 400px;
+}
+
+.quote {
+
+
+    text-align: center;
+    border: 1px dotted grey;
+    width: 100%;
+
+}
+
 .destinations button {
 
     background-color: white;
