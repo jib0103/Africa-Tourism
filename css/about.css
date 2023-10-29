@@ -63,7 +63,7 @@ nav .container {
 
     margin-top: 5%;
     text-transform: uppercase;
-    letter-spacing: 1em;
+    letter-spacing: 8px;
     font-weight: bold;
     
 
@@ -81,6 +81,7 @@ nav .container {
 
 
     margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 .quote p {
