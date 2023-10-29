@@ -52,7 +52,7 @@ nav .container {
 .bck {
 
     text-align: center;
-    height: 150px;
+    
 
 }
 
@@ -389,6 +389,15 @@ border-radius: 0px;
     display: flex;
     justify-content: center;
     
+}
+
+.listbox1 {
+
+    display: flex;
+    justify-content: center;
+
+
+
 }
 
 footer {
