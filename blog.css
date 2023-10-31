@@ -56,6 +56,15 @@ nav .container {
 
 }
 
+.main2 {
+
+    margin-top: -150px;
+background-color: white;
+z-index: 1;
+position: relative;
+margin-left: 10%;
+}
+
 .main2 h2 {
 
     font-size: 22px;

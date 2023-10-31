@@ -12,6 +12,10 @@ body {
 
 }
 
+.container-fluid {
+    padding: 0;
+}
+
 .three ul {
 
     list-style: none;
@@ -33,7 +37,7 @@ body {
     list-style: none;
 }
 
-h2, h3 {
+h1, h2, h3 {
 
     letter-spacing: 4px;
 }
@@ -54,6 +58,15 @@ nav .container {
    height: 400px;
    background-size: cover;
 
+}
+
+.main2 {
+
+    margin-top: -150px;
+background-color: white;
+z-index: 1;
+position: relative;
+margin-left: 10%;
 }
 
 .main2 h2 {
@@ -145,6 +158,7 @@ nav .container {
 
 
     margin-top: 4%;
+    text-align: center;
 }
 
 #loc {
