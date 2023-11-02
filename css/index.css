@@ -289,11 +289,16 @@ border-radius: 0px;
 
 
 
-.article1 {
+.grp {
 
 
-   
+    display: flex;
+  
 
+}
+
+.grp1 {
+    width:25%;
 }
 
 
