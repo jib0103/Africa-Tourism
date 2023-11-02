@@ -510,3 +510,27 @@ footer {
 
 }
 
+@media only screen and (max-width: 600px) {
+
+    .side-men {
+
+        display: none;
+    }
+
+    .three ul li::before {
+
+        width: 1em;
+        margin-top: 12px;
+    }
+
+    .li-imgs img {
+        max-width: 100%;
+        height: fit-content;
+      }
+
+      .f2 {
+        flex-direction: column;
+  }
+
+}
+
