@@ -289,7 +289,12 @@ border-radius: 0px;
 
 
 
+.article1 {
 
+
+   
+
+}
 
 
 
@@ -340,6 +345,7 @@ footer {
     
     border-bottom: 1px solid #d7d5d5;
     padding-top: 5%;
+    display: flex;
    
     
 
@@ -351,6 +357,27 @@ footer {
 
     font-family: 'Lora', serif;
     font-size: 22px;
+
+}
+
+@media only screen and (max-width: 600px) {
+
+
+    .mi {
+
+        display: none;
+    }
+
+    .card {
+        
+        overflow: hidden;
+height: 300px;
+
+}
+
+.f2 {
+      flex-direction: column;
+}
 
 }
 
