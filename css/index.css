@@ -381,6 +381,17 @@ height: 300px;
 
 }
 
+.mini-cards {
+
+    overflow: visible;
+}
+
+.destinations {
+
+    flex-direction: column;
+}
+
+
 .f2 {
       flex-direction: column;
 }
