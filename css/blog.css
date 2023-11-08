@@ -66,7 +66,9 @@ nav .container {
 background-color: white;
 z-index: 1;
 position: relative;
-margin-left: 10%;
+
+width: 90%;
+
 }
 
 .main2 h2 {
@@ -522,5 +524,26 @@ footer {
     font-family: 'Lora', serif;
     font-size: 22px;
 
+}
+
+.mn1-row {
+
+
+width: 100%;
+margin: auto;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .f2 {
+        flex-direction: column;
+  }
+
+  .main2 {
+
+    margin-top: -80px;
+    margin-left: 1px;
+  }
+    
 }
 

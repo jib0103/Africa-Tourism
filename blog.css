@@ -519,3 +519,15 @@ footer {
 
 }
 
+@media only screen and (max-width: 600px) {
+
+    .f2 {
+        flex-direction: column;
+  }
+
+  .main2 {
+
+    margin-top: -80px;
+  }
+    
+}

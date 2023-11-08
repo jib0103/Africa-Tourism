@@ -52,7 +52,8 @@ nav .container {
 .bck {
 
     text-align: center;
-    height: 150px;
+   /* height: 150px; */
+    
 
 }
 
@@ -102,6 +103,7 @@ nav .container {
 
 
     margin-top: 4%;
+    flex-direction: column;
 }
 
 #loc {
@@ -124,7 +126,7 @@ nav .container {
 
     background-size: cover;
     background-image: url(../img/teacher1.jpg);
-    height: 400px;
+    height: 100vh;
 }
 
 .quote {
@@ -423,5 +425,15 @@ footer {
     font-family: 'Lora', serif;
     font-size: 22px;
 
+
+}
+
+
+@media only screen and (max-width: 600px) {
+
+    .f2 {
+        flex-direction: column;
+  }
+    
 }
 
