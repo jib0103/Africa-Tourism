@@ -126,6 +126,7 @@ nav .container {
 
     border: 1px solid #f4f2f2;;
     width: none;
+    
 }
 
 
@@ -137,6 +138,13 @@ nav .container {
 
 
 }
+
+.grp-main img {
+
+    max-width: 100%;
+}
+
+
 
 
 nav {
